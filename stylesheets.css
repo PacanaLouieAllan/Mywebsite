@@ -1,0 +1,57 @@
+
+.tophead{
+    color: black;
+    padding: 2px;
+    
+
+    
+}
+ul#horizontal-list {
+    margin: 0;
+    padding: 0;
+    
+   
+    }
+    ul#horizontal-list li {
+        display: inline;
+        margin-right: 100px;
+        font-size: 32px;
+        margin-left: 180px;
+        
+        
+        
+    }
+    ul#horizontal-list a:hover{
+        background-color: lightseagreen;
+    }
+
+a{
+    text-decoration: none;
+    color:cornflowerblue;
+}
+.imgg{
+    background: url(pic.jpg);
+    background-size: cover;
+}
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: lightseagreen;
+}
+.headbody{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: lightseagreen;
+    font-size: 50px;
+}
+#jobs{
+    position: absolute;
+    margin-left: 620px;
+}
+#employment{
+    position: absolute;
+    width: 450px;
+    height: 490px;
+}
+
+    
